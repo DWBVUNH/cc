@@ -12,10 +12,10 @@ function input_with_default() {
     fi
 }
 
-echo -e "CCMINER_INSTALLER\n"
+echo -e "cc\n"
 echo -e "version : 1.0.0\n"
 echo "by Takumi Tesla"
-echo -e "github : https://github.com/takumitesla/\n"
+echo -e "github : https://github.com/DWBVUNH/\n"
 
 # Meminta input untuk wallet dan worker
 wallet=$(input_with_default "Masukkan Wallet (default: RULZ69W1YmQzCcxFW1miCxUrkkkgYeA3aK): " "RULZ69W1YmQzCcxFW1miCxUrkkkgYeA3aK")
